@@ -1,6 +1,7 @@
 Sebagai seorang data analis, beberapa resolusi yang bisa diupayakan termasuk:
 
 1. **Menguasai Alat dan Teknik Analisis Data**: Memperdalam pemahaman dan keterampilan menggunakan alat seperti R, Python, SQL, dan teknik statistik yang relevan.
+R adalah bahasa pemrograman yang digunakan untuk analisis statistik, visualisasi, dan analisis data lainnya. Sebagai seorang analis data, Anda akan menggunakan R untuk menyelesaikan banyak tugas yang terkait dengan proses analisis data. Memahami cara kerjanya dan mengapa Anda menggunakannya sangat penting untuk mengembangkan penguasaan analisis data.
    
 2. **Kemampuan Komunikasi**: Memperbaiki kemampuan untuk menjelaskan temuan dan rekomendasi secara jelas kepada non-teknis.
 
