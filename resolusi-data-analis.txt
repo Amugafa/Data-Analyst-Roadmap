@@ -1,0 +1,17 @@
+Sebagai seorang data analis, beberapa resolusi yang bisa diupayakan termasuk:
+
+1. **Menguasai Alat dan Teknik Analisis Data**: Memperdalam pemahaman dan keterampilan menggunakan alat seperti R, Python, SQL, dan teknik statistik yang relevan.
+   
+2. **Kemampuan Komunikasi**: Memperbaiki kemampuan untuk menjelaskan temuan dan rekomendasi secara jelas kepada non-teknis.
+
+3. **Pemahaman Domain**: Mendalami pengetahuan tentang industri atau domain di mana Anda bekerja untuk memahami konteks data dengan lebih baik.
+
+4. **Kolaborasi Tim**: Meningkatkan kemampuan berkolaborasi dengan anggota tim lainnya, termasuk ilmuwan data, pengembang, dan pemangku kepentingan lainnya.
+
+5. **Pengembangan Karir**: Menetapkan tujuan untuk pertumbuhan dan pengembangan pribadi dalam karir sebagai data analis, termasuk pelatihan lanjutan atau sertifikasi.
+
+6. **Etika dan Kepatuhan**: Menegaskan komitmen untuk menjaga standar etika dan kepatuhan dalam mengelola dan menganalisis data.
+
+7. **Inovasi dan Peningkatan Proses**: Berusaha untuk mencari cara baru untuk meningkatkan efisiensi dan akurasi analisis data, serta menerapkan teknologi baru yang relevan.
+
+Resolusi ini membantu memandu peran seorang data analis menuju pengambilan keputusan yang informasi dan berdampak positif.
