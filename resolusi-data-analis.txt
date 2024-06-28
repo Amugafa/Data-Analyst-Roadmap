@@ -15,3 +15,9 @@ Sebagai seorang data analis, beberapa resolusi yang bisa diupayakan termasuk:
 7. **Inovasi dan Peningkatan Proses**: Berusaha untuk mencari cara baru untuk meningkatkan efisiensi dan akurasi analisis data, serta menerapkan teknologi baru yang relevan.
 
 Resolusi ini membantu memandu peran seorang data analis menuju pengambilan keputusan yang informasi dan berdampak positif.
+
+KEUNGGULAN R
+1. ACCESSIBLE
+2. DATA CENTRICT
+3. OPEN SOURCE
+4. ACTIVE COMUNITY
