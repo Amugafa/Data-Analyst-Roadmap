@@ -1,0 +1,9 @@
+Hal-hal yang perlu dicapai dalam mempelajari Python programming untuk menjadi seorang data analis meliputi:
+
+1. Dasar Python: Memahami sintaks dasar, tipe data, dan struktur kontrol dalam Python.
+
+2. Paket dan Library: Menguasai penggunaan paket-paket Python seperti Pandas untuk manipulasi data, NumPy untuk komputasi numerik, dan Matplotlib/Seaborn untuk visualisasi data.
+
+3. Analisis Data: Mampu melakukan manipulasi data kompleks, agregasi, dan pemodelan menggunakan Python.
+
+4. Machine Learning: Memahami konsep dasar machine learning dan mampu menerapkannya menggunakan scikit-learn atau TensorFlow/PyTorch.
