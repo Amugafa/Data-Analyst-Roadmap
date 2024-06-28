@@ -1,0 +1,21 @@
+Hal-hal yang perlu dicapai dalam mempelajari R programming untuk menjadi seorang data analis meliputi:
+
+1. **Pemahaman Dasar R**: Memahami sintaks dasar, struktur data, dan fungsi dasar dalam R.
+   
+2. **Manipulasi Data**: Mampu melakukan manipulasi data seperti filtering, penggabungan dataset, dan transformasi data menggunakan paket seperti dplyr dan tidyr.
+
+3. **Visualisasi Data**: Mampu membuat visualisasi data yang informatif dan estetis menggunakan ggplot2 atau paket visualisasi lainnya.
+
+4. **Analisis Statistik**: Menguasai teknik analisis statistik seperti regresi, uji hipotesis, dan analisis eksploratori data (EDA).
+
+5. **Paket dan Library**: Mengenal dan mampu menggunakan berbagai paket dan library R yang relevan untuk analisis data seperti tidyr, lubridate, caret, dan lainnya.
+
+6. **R Markdown**: Kemampuan untuk membuat laporan interaktif dan dokumentasi menggunakan R Markdown untuk berbagi temuan analisis dengan orang lain.
+
+7. **Kolaborasi dan Reproducibility**: Memahami praktik kolaborasi dalam pengembangan kode, serta memastikan reproducibility dengan menggunakan proyek RStudio dan kontrol versi (version control) seperti Git.
+
+8. **Optimasi Kinerja**: Mengetahui teknik untuk mengoptimalkan kinerja kode R untuk analisis data yang lebih besar dan kompleks.
+
+Pencapaian semua hal di atas akan membekali seorang data analis dengan kemampuan yang komprehensif dalam memanfaatkan R programming untuk menjalankan analisis data yang efektif dan mendalam.
+
+Mempelajari R programming tetap relevan sebagai seorang data analis saat ini. R memiliki keunggulan dalam analisis statistik dan visualisasi data yang kuat, dengan komunitas yang aktif dan banyaknya paket analisis data yang tersedia. Kemampuan R dalam manipulasi data, model statistik, dan pembuatan laporan interaktif dengan R Markdown membuatnya sangat berguna dalam industri data science, riset, dan analisis data secara umum.
