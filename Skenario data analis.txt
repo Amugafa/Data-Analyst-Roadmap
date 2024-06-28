@@ -9,4 +9,3 @@ Hal Dasar yang perlu diketahui Belajar data Analis
 3. Bersihkan data Anda untuk memastikannya memiliki integritas sebelumnya Anda menganalisanya
 4. Menciptakan visual yang berdampak untuk mengilustrasikan poin-poin penting
 5. Buatlah cerita yang menarik untuk mengomunikasikan wawasan kepada pemangku kepentingan
-6. poin ini akan di hapus
