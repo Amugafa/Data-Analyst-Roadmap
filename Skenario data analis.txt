@@ -2,3 +2,11 @@ SCENARIO DATA ANALISYS
 1. REPRODUCING YOUR ANALISYS / MEMPRODUKSI ANALISIS ANDA.
 2. PROCCESSING LOT OF DATA / MEMPROSES BANYAK DATA.
 3. CREATING DATA VISUALIZATIONS / MEMBUAT VISUALISASI DATA
+
+Hal Dasar yang perlu diketahui Belajar data Analis
+1. Menggunakan pemikiran terstruktur untuk mendefinisikan masalah dan bertanya pertanyaan yang tepat
+2. Bekerja dengan spreadsheet, database, dan alat seperti SQL mengatur dan mengubah data
+3. Bersihkan data Anda untuk memastikannya memiliki integritas sebelumnya Anda menganalisanya
+4. Menciptakan visual yang berdampak untuk mengilustrasikan poin-poin penting
+5. Buatlah cerita yang menarik untuk mengomunikasikan wawasan kepada pemangku kepentingan
+6. poin ini akan di hapus
